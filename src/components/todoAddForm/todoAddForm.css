@@ -1,0 +1,10 @@
+.todoAddForm {
+    display: flex;
+    justify-content: center;
+}
+
+.todoAddForm-cont {
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}
