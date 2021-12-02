@@ -1,0 +1,11 @@
+.btn-sm {
+  width: 25%;
+}
+.todo-add-form input {
+  margin-right: 0.5rem;
+  width: 100%;
+}
+form {
+  display: flex;
+  width: 100%;
+}

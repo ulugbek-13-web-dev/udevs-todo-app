@@ -1,0 +1,24 @@
+.todo-list {
+  list-style-type: none;
+  padding: 0;
+}
+.todo-list {
+  text-align: left;
+  padding: 12px 12px 12px 12px;
+}
+.todo-list-item-label {
+  cursor: pointer;
+}
+.todo-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.todo-list-item-icons {
+  display: flex;
+  justify-content: space-around;
+}
+.todo-list-item-icons button {
+  width: 50%;
+  margin-right: 0.5rem;
+}
